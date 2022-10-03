@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="search_page_title">Github User\'s Search</string>
+    <string name="detail_page_title">Detail User</string>
+    <string name="favorite_page_title">Favorite User</string>
+    <string name="settings_page_title">Settings</string>
+    <string name="username">Username</string>
+    <string name="repository">Repository</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="separator">|</string>
+    <string name="error">Username can\'t be empty!</string>
+    <string name="error_toast">Enter username first!</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="empty_following">Hasn\'t followed anyone</string>
+    <string name="empty_user">User can\'t be found</string>
+    <string name="empty_follower">Has no followers</string>
+    <string name="background_proggress_bar">Background proggress bar</string>
+    <string name="empty_fav">No favorites yet</string>
+    <string name="background_detail_page">background_detail_page</string>
+    <string name="error_occured">Terjadi kesalahan</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites_icon">favorites icon</string>
+    <string name="theme_setting">Theme Setting</string>
+    <string name="favorite">Favorite</string>
+    <string name="theme_settings">Theme Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="fab_favorite">Floating Action Button Favorite</string>
+</resources>
