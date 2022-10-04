@@ -3,6 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.android'
     id 'kotlin-kapt'
     id 'kotlin-parcelize'
+    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
 }
 
 android {
@@ -14,8 +15,6 @@ android {
         targetSdk 33
         versionCode 1
         versionName "1.0"
-        buildConfigField ("String", "API_KEY", API_KEY)
-        buildConfigField ("String", "BASE_URL", BASE_URL)
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
